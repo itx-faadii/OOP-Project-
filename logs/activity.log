@@ -1,0 +1,22 @@
+[STARTUP] SHADOW-SHELL launched. 
+[SHUTDOWN] SHADOW-SHELL exited by user. 
+[STARTUP] SHADOW-SHELL launched. 
+[SHUTDOWN] SHADOW-SHELL exited by user. 
+[STARTUP] SHADOW-SHELL launched. 
+Attempt Failed for admin: admin 
+Attempt Failed for admin: 123456 
+Attempt Failed for admin: password 
+Attempt Failed for admin: root 
+Brute force exhausted without success. 
+Detection level increased to: 1 
+[STARTUP] SHADOW-SHELL launched. 
+[TEST] Network nodes scanned for vulnerabilities. 
+[TEST] HTTP service scanned. 
+[TEST] Firewall vulnerability tested. 
+Attempt Failed for admin: admin 
+Attempt Failed for admin: 123456 
+Attempt Failed for admin: password 
+Attempt Failed for admin: root 
+Brute force exhausted without success. 
+Detection level increased to: 1 
+[STARTUP] SHADOW-SHELL launched. 
